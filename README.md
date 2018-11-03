@@ -1,8 +1,6 @@
 # CS535 project No Thats Not What I Mean
 Due date: Nov. 20 2018
-Mobile Computing Project:30% 
-====================================
-Project 4 Task List
+Mobile Computing Project:30%
 
 Task 1: Data collecting
 1)	Obtain data from IMPACT Lab.
