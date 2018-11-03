@@ -1,21 +1,21 @@
 # CS535 project No Thats Not What I Mean
-Due date: Nov. 20 2018
+Due date: 11/20/2018<br>
 Mobile Computing Project:30%
 
-Task 1: Data collecting
+## Task 1: Data collecting
 1)	Obtain data from IMPACT Lab.
 2)	Understand data format
 3)	Understand stimuli
 4)	Segment data using stimuli
 
-Task 2: Scientific Design
+## Task 2: Scientific Design
 1)	Find stimulus(incongruity). Use 3-4 different stimulus
 2)	Data collection. Collect significant data.
 3)	Training/ testing (weka). Separate the collect data into training and testing.
 4)	Machine learning. Use different machine learning algorithms to analysis the data.(SVM, Deep learning)
 5)	Accuracy analysis.
 
-Task 3: Signal Processing
+## Task 3: Signal Processing
 
 1)	Find the stimulus (incongruity) Use 3-4 different stimulus.
 2)	Data collection
